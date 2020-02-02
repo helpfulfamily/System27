@@ -321,7 +321,7 @@ Saltuk Uyum Cafée’den ayrıldıktan hemen sonra Gadiel, Altay’a elini uzata
 Altay, Gadiel’in elini sıktığı ân, aynı ürpertiyi ikinci kez yaşayıp gözleri karardı ve derin derin nefes almaya başladı.
 Gadiel durumu fark eder gibi oldu ama nedense rengini bozmadı, “Bugün sana çok güzel emlak fırsatlarından haber vereceğim Altay Hoca!” demekle yetindi.
 Altay, “Tabiî o mevzuda konuşmak isterim. Ama Saltukla aramızda geçen muhabbet kafanı karıştırsın istemem. Saltuk’u çok severim. Bulunmaz bir pırtlantadır. Sâdece benim izlediğim yolun onu mutlu etmeyeceğinden eminim. Onu da kendiminki gibi yalnızlık içerisinde boğulduğum bir hayata sürükleyemem. O, genişleyen bir insân ilişkileri ağı üzerine hayatını inşa etmek yönünde kendisince çok haklıdır. Dolayısı ile saygı duymak gerekir.”
-Gadiel, “Aslına bakarsan ben de Saltuk’ı haklı görüyorum. Bence sen biraz katısın Altay Hoca. Yeni inşanlar, yeni tatlar iyidir. Bir çiçekle bir bahar geçmez diye bir söz var biliyorsun!”
+Gadiel, “Aslına bakarsan ben de Saltuk’ı haklı görüyorum. Bence sen biraz katısın Altay Hoca. Yeni insanlar, yeni tatlar iyidir. Bir çiçekle bir bahar geçmez diye bir söz var biliyorsun!”
 Altay, “Benim dünyâyı algılayışım biraz farklıdır. Sizin bakışaçınızın daha sağlıklı olma ihtimâli gerçekten büyük. Ama ben mes’eleyi odaklanma, sindirme ve emek temelli düşünüyorum.”
 Gadiel, “Sana ‘Garip adam vesselâm!’ diyoruz diye belki bize güveniyorsun ama hakikaten de garipsin Altay Bey. Hadi emeği anladık da, arkadaşlıkla odaklanma ve sindirmenin ne alakası var ki?”
 Altay, “Gerçi buraya emlak meselesini konuşmaya geldik, ama madem birlikte iş yapacağız, birbirimizi iyice tanımamız ve anlamamız lazım. Bu konular öyle birkaç cümle ile anlatılmıyor. Sakın nutuk veriyormuşum gibi algılama ama, en baştan anlatmam gerekir.”
@@ -863,7 +863,7 @@ Her çözüm, kendi problemleri ile birlikte geleceği için, evlilikte de birta
 
  “Şu ân var olan şeyler birtakım problemlere çözüm oldukları için vardırlar ve çözümün bir parçası olmaktan çıkıp, sorunun bir parçası olmaya başladıklarında, yeni çözümler tarafından tarafından yok edileceklerdir.”
 “Yani evlilik sistemi yok mu olacak Altay?”
-“Ben olmaması için mücâdele etmemiz gerektiğini düşünüyorum. Aile kurumu geleneksel toplumun hücresi idi. Ancak, içinde bulunduğumuz sistem, aileyi değil şirketi kendisine hücre olarak belirledi. Dolayısı ile, şirketleşmeyen her türlü yapıyı bir antijen ve kanser hücresi olarak belirleyip yok etmeye çalışıyor. Aynı sebeble, sıradan inşandan çok bir şirket gibi hareket eden sosyopatlar, narsisistler, psikopatlar da doğal olarak içinde bulunduğumuz sistem tarafından destekleniyor. Dolayısı ile, aile kurumu zedelenirken, bu tür ego merkezli bireyler yükselecek ve çoğalacak.”
+“Ben olmaması için mücâdele etmemiz gerektiğini düşünüyorum. Aile kurumu geleneksel toplumun hücresi idi. Ancak, içinde bulunduğumuz sistem, aileyi değil şirketi kendisine hücre olarak belirledi. Dolayısı ile, şirketleşmeyen her türlü yapıyı bir antijen ve kanser hücresi olarak belirleyip yok etmeye çalışıyor. Aynı sebeble, sıradan insandan çok bir şirket gibi hareket eden sosyopatlar, narsisistler, psikopatlar da doğal olarak içinde bulunduğumuz sistem tarafından destekleniyor. Dolayısı ile, aile kurumu zedelenirken, bu tür ego merkezli bireyler yükselecek ve çoğalacak.”
  
  “Altay, o hâlde, bir sistem olarak evlilik kurumu neden inşâ edildi? 
  Neye çözüm oldu da, bu tür bir içtimâî örgütlenme, eski sistem tarafından desteklendi?”
